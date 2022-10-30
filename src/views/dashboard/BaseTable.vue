@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import Navi from "@/components/Navi";
+import Navi from "@/components/NaviTop";
 export default {
   name: "BaseTable",
   data() {

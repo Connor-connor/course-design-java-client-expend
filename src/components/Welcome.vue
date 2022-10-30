@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Navi from "@/components/Navi.vue";
+import Navi from "@/components/NaviTop.vue";
 import { mapState } from "vuex";
 
 export default {
