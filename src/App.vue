@@ -3,6 +3,8 @@
 </template>
 
 <style>
+/*@import "/style/date-select-style.less";*/
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

@@ -1,34 +1,34 @@
 <template>
-  <!-- <div class="login">
-    <h2>Login</h2>
-    <form @submit.prevent="handleSubmit">
-      <div class="form-group">
-        <label for="username">用户名</label>
-        <input
-          type="text"
-          v-model="username"
-          name="username"
-          class="form-control"
-          :class="{ 'is-invalid': !username }"
-        />
-        <div v-show="!username" class="invalid-feedback">请输入用户名</div>
-      </div>
-      <div class="form-group">
-        <label htmlFor="password">口令</label>
-        <input
-          type="password"
-          v-model="password"
-          name="password"
-          class="form-control"
-          :class="{ 'is-invalid': !password }"
-        />
-        <div v-show="!password" class="invalid-feedback">请输入口令</div>
-      </div>
-      <div class="form-group">
-        <button class="btn btn-primary">登录</button>
-      </div>
-    </form>
-  </div> -->
+    <!-- <div class="login">
+      <h2>Login</h2>
+      <form @submit.prevent="handleSubmit">
+        <div class="form-group">
+          <label for="username">用户名</label>
+          <input
+            type="text"
+            v-model="username"
+            name="username"
+            class="form-control"
+            :class="{ 'is-invalid': !username }"
+          />
+          <div v-show="!username" class="invalid-feedback">请输入用户名</div>
+        </div>
+        <div class="form-group">
+          <label htmlFor="password">口令</label>
+          <input
+            type="password"
+            v-model="password"
+            name="password"
+            class="form-control"
+            :class="{ 'is-invalid': !password }"
+          />
+          <div v-show="!password" class="invalid-feedback">请输入口令</div>
+        </div>
+        <div class="form-group">
+          <button class="btn btn-primary">登录</button>
+        </div>
+      </form>
+    </div> -->
 
   <div class="login-container">
     <div class="logo">
